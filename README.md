@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hacisimsek23@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bz6UvOPLlWxkkNWP-6aWGyjvFkPxVJjk/view?usp=sharing](https://drive.google.com/file/d/1bz6UvOPLlWxkkNWP-6aWGyjvFkPxVJjk/view?usp=sharing)
+- 📄 Know about my experiences [Link](https://drive.google.com/file/d/1bz6UvOPLlWxkkNWP-6aWGyjvFkPxVJjk/view?usp=sharing)
 
 - ⚡ Fun fact **Bodybuilder, Traveling, Books**
 
