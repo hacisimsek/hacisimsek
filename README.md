@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **TypeScript, JavaScript, ReactJS**
 
-- 📝 I regularly write articles on [https://medium.com/@hacisimsek23](https://medium.com/@hacisimsek23)
+- 📝 I regularly write articles on [Link](https://medium.com/@hacisimsek23)
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **hacisimsek23@gmail.com**
+- 📫 How to reach me [Link](hacisimsek23@gmail.com)
 
 - 📄 Know about my experiences [Link](https://drive.google.com/file/d/1bz6UvOPLlWxkkNWP-6aWGyjvFkPxVJjk/view?usp=sharing)
 
