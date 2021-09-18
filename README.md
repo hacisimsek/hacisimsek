@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hacı</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hacisimsek" alt="hacisimsek" /></a> </p>
+
 - 🌱 I’m currently learning **TypeScript, JavaScript, ReactJS**
 
 - 📝 I regularly write articles on [https://medium.com/@hacisimsek23](https://medium.com/@hacisimsek23)
