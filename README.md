@@ -26,10 +26,10 @@
 
 <details>
 <summary>:bulb: Github Status</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=codingwithdidem&theme=radical" >
+<img src="https://github-readme-stats.vercel.app/api?username=hacisimsek&theme=radical" >
 </details>
 
 <details>
 <summary>:bulb:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithdidem&layout=compact" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacisimsek&layout=compact" >
 </details>
