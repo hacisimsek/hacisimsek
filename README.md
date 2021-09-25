@@ -206,7 +206,7 @@
 </p>
 
 <details>
-  <summary>:bulb: Github Status</summary>
+  <summary>:bulb: Github Stats</summary>
   <img
     src="https://github-readme-stats.vercel.app/api?username=hacisimsek&theme=radical"
   />
