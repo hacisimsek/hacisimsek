@@ -24,27 +24,11 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://instagram.com/hacisimsek" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="hacisimsek"
-      height="30"
-      width="40"
-  /></a>
   <a href="https://medium.com/@hacisimsek23" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
       alt="@hacisimsek23"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.hackerrank.com/hacisimsek23" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="hacisimsek23"
       height="30"
       width="40"
   /></a>
