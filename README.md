@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hacı</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **TypeScript, JavaScript, ReactJS**
+- 🌱 I’m currently learning **TypeScript, JavaScript, ReactJS, Java**
 - √ Also,I'm curious about the swift programming language and the working logic of ios applications.
 - 📫 How to reach me [hacisimsek23@gmail.com](hacisimsek23@gmail.com)
 - 📄 Know about my experiences [Link](https://drive.google.com/file/d/1bz6UvOPLlWxkkNWP-6aWGyjvFkPxVJjk/view?usp=sharing)
