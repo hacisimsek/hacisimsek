@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hacı</h1>
 
-- 🌱 I’m currently learning **TypeScript, JavaScript, ReactJS, Java**
+- 🌱 I’m currently learning **TypeScript, JavaScript, ReactJS, Java, SpringBoot**
 - 📫 How to reach me [hacisimsek23@gmail.com](hacisimsek23@gmail.com)
 - 📄 Know about my experiences [Link](https://drive.google.com/file/d/1bz6UvOPLlWxkkNWP-6aWGyjvFkPxVJjk/view?usp=sharing)
 - ⚡ Fun fact **Bodybuilder, Traveling, Books**
