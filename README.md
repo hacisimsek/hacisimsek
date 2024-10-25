@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hacisimsek.com/](https://hacisimsek.com/)
 
-- 📝 I regularly write articles on [https://medium.com/@hacisimsek](https://medium.com/@hacisimsek)
+- 📝 I regularly write articles on [medium](https://medium.com/@hacisimsek)
 
 - 💬 Ask me about **spring boot, react.js/next.js**
 
