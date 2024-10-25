@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hacisimsek23@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Q60VwWDtfUrOYPSFT3GZB3-lolQl0KHe/edit?usp=sharing&ouid=115945056381097763166&rtpof=true&sd=true](https://docs.google.com/document/d/1Q60VwWDtfUrOYPSFT3GZB3-lolQl0KHe/edit?usp=sharing&ouid=115945056381097763166&rtpof=true&sd=true)
+- 📄 Know about my experiences [resume](https://docs.google.com/document/d/1Q60VwWDtfUrOYPSFT3GZB3-lolQl0KHe/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
