@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hacisimsek&label=Profile%20views&color=0e75b6&style=flat" alt="hacisimsek" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://hacisimsek.com/](https://hacisimsek.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://hacisimsek.com/](https://hacisimsek.com/)
 
 - 📝 I regularly write articles on [medium](https://medium.com/@hacisimsek)
 
