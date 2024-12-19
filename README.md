@@ -6,10 +6,3 @@
 
 - 📄 Know about my experiences [resume](https://docs.google.com/document/d/1Q60VwWDtfUrOYPSFT3GZB3-lolQl0KHe/edit)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/codewithhaci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithhaci" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hacisimsek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hacisimsek" height="30" width="40" /></a>
-<a href="https://medium.com/@hacisimsek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hacisimsek" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hacisimsek23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hacisimsek23" height="30" width="40" /></a>
-</p>
